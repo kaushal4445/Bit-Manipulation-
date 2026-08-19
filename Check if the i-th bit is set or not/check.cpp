@@ -27,3 +27,9 @@ int main() {
 
 
 //  g++ check.cpp; .\a.exe
+
+
+
+// git add .
+// git commit -m "Add new bit manipulation solution"
+// git push
